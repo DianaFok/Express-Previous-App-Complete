@@ -2,7 +2,7 @@
 
 A book tracker that allows the user to list the books they've read. The user can also add comments and delete.
 
-![tracker](public/readme.png)
+![tracker](public/read.png)
 
 ## Installation
 
